@@ -1,0 +1,11 @@
+              precision    recall  f1-score   support
+
+      ADWARE       0.63      0.25      0.36     84830
+      BENIGN       0.52      0.95      0.67    242042
+  RANSOMWARE       0.63      0.26      0.37     70354
+   SCAREWARE       0.49      0.08      0.14     80233
+  SMSMALWARE       0.74      0.12      0.21     45855
+
+    accuracy                           0.54    523314
+   macro avg       0.60      0.33      0.35    523314
+weighted avg       0.57      0.54      0.46    523314
